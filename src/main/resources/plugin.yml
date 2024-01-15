@@ -1,0 +1,7 @@
+name: EdenLib
+version: '${project.version}'
+main: dev.orhidea.edenlib.EdenLib
+api-version: '1.20'
+description: Updated GalacticLib for latest minecraft versions.
+depend:
+  - MassiveCore
