@@ -2,7 +2,7 @@ package dev.orhidea.edenlib.util;
 
 import com.massivecraft.massivecore.util.InventoryUtil;
 import com.massivecraft.massivecore.util.MUtil;
-import de.tr7zw.changeme.nbtapi.NBTItem;
+import de.tr7zw.nbtapi.NBTItem;
 import lombok.experimental.UtilityClass;
 import org.bukkit.inventory.ItemStack;
 
